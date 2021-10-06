@@ -37,3 +37,16 @@
 * classList.add()
 * For Loops 
 * Arrow functions
+
+## Nokia 3310 Snake Game
+* querySelector()
+* addEventListener()
+* setInterval()
+* keyCodes()
+* pop()
+* unshift()
+* push()
+* classList.contains()
+* classList.add()
+* clasList.remove()
+
