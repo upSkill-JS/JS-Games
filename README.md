@@ -50,3 +50,44 @@
 * classList.add()
 * clasList.remove()
 
+## Space Invaders 
+* querySelector()
+* addEventListener()
+* switch cases
+* keyCodes
+* indexOf()
+* includes()
+* classList
+* setInterval()
+* clearInterval()
+* push()
+
+## Frogger 
+* querySelector()
+* addEventListener()
+* setInterval()
+* clearInterval()
+* forEach()
+* classList.contains()
+* classList.add()
+* classList.remove()
+
+## Tetris
+* querySelector()
+* addEventListener()
+* Array.from()
+* getElementByClassName()
+* Math.floor()
+* Math.random()
+* forEach()
+* classList.contains()
+* classList.add()
+* classList.remove()
+* setInterval()
+* clearInterval()
+* some()
+* style.backgroundImage
+* splice()
+* concat()
+* appendChild()
+* Arrow functions
