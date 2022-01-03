@@ -91,3 +91,5 @@
 * concat()
 * appendChild()
 * Arrow functions
+
+This project was created to demonstrate usages of Evenet Handelers in Javascript and DOM manipulations.

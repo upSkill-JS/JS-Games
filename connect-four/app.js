@@ -4,6 +4,8 @@ document.addEventListener("DOMContentLoaded", () => {
   const displayCurrentPlayer = document.querySelector("#current-player");
   let currentPlayer = 1;
 
+  // Array for Winning... 
+
   const winningArrays = [
     [0, 1, 2, 3],
     [41, 40, 39, 38],
@@ -75,6 +77,9 @@ document.addEventListener("DOMContentLoaded", () => {
     [12, 19, 26, 33],
     [13, 20, 27, 34],
   ];
+
+
+  // Function for Checking Board...
 
   function checkBoard() {
     for (let y = 0; y < winningArrays.length; y++) {
